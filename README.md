@@ -1,6 +1,6 @@
 ## s4484282 StyleGAN2 OASIS brain generative model
 
-
+![brain teaser](https://github.com/Despicable-bee/PatternFlow/blob/s4484282_branch/example_brain_output.png)
 
 A generative model built using Nvidia's StyleGAN2 - ADA implementation in 
 PyTorch.
