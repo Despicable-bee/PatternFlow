@@ -14,14 +14,14 @@ Training was done using Google Colab, which for $13/month, gives you access to a
 
 The first 10 epochs produced the following image
 
-![early brains](https://drive.google.com/file/d/1-jqSodnf2nAq1mdDVR3cQmOIhsh-Aipm/view?usp=sharing)
+![early brains](https://github.com/Despicable-bee/PatternFlow/blob/s4484282_branch/fakes000040.png)
 
 With the generative model improving with various epochs
 
-![later brains](https://drive.google.com/file/d/1-thxibEDnQvTX3SyRdiXQJnweIjwdaGI/view?usp=sharing)
+![later brains](https://github.com/Despicable-bee/PatternFlow/blob/s4484282_branch/fakes000056.png)
 
 With the final brains looking like this
 
-![final](https://drive.google.com/file/d/13LFYSLCd0wgRMnkDvfuG7PvRdtoqtVt5/view?usp=sharing)
+![final](https://github.com/Despicable-bee/PatternFlow/blob/s4484282_branch/fakes000362.png)
 
 
